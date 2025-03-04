@@ -26,9 +26,13 @@ OpenStreetMap – Provides mapping and geospatial data
 Netlify – Continuous deployment and hosting
 🔧 How It Works
 1️⃣ Enter City Name – Start your urban exploration by selecting a city.
+
 2️⃣ Find Top-Rated Places – Get AI-powered recommendations on restaurants and attractions.
+
 3️⃣ Book a Table – Reserve your dining spot effortlessly.
+
 4️⃣ Plan Your Journey – Use the shortest path algorithm to visit all selected locations efficiently.
+
 5️⃣ Navigate with Ease – Follow an optimized route with interactive maps.
 
 🌟 Future Enhancements
